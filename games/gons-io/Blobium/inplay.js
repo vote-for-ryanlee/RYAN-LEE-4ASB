@@ -18,10 +18,4 @@ function getScript (src, callback) {
 	headElm.appendChild(script);
 }
 
-getScript('//api.adinplay.com/player/v2/GNS/gons.io/player.min.js', initAipPreroll);
 
-function playAd()
-{
-	adplayer.startPreRoll();
-	
-}
