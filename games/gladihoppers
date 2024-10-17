@@ -14,7 +14,7 @@
 </head>
 <body>
 
-    <iframe class="gm-iframe" id="gm-area" src="https://bonbang.github.io/store99/gladihoppers/" width="750" height="500" scrolling="none" frameborder="0" allowfullscreen></iframe>
+    <iframe class="gm-iframe" id="gm-area" src="https://bonbang.github.io/store99/gladihoppers/" width="750" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 </body>
 </html>
