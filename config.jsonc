@@ -20,6 +20,11 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
+        "Gladihoppers": {
+            "path": "gladihoppers",
+            "aliases": [],
+            "categories": []
+        },
         "Level Devil": {
             "path": "index.html",
             "aliases": [],
