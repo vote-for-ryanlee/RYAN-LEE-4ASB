@@ -20,11 +20,6 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
-        "Level Devil": {
-            "path": "Level-Devil",
-            "aliases": [],
-            "categories": []
-        },
         "1v1.LOL": {
             "path": "1v1-lol",
             "aliases": [],
