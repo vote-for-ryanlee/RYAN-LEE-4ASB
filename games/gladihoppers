@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Game Frame</title>
+    <style>
+        .gm-iframe {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <iframe class="gm-iframe" id="gm-area" src="https://bonbang.github.io/store99/gladihoppers/" width="750" height="500" scrolling="none" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
