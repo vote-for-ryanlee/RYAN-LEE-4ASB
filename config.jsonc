@@ -20,6 +20,11 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
+        "Station Saturn": {
+            "path": "station-saturn",
+            "aliases": [],
+            "categories": []
+        },
         "Level Devil": {
             "path": "index.html",
             "aliases": [],
