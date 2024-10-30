@@ -21,7 +21,7 @@
             sake of simplicity we will order this list alphanumerically.
         */
         "Station Saturn": {
-            "path": "station-saturn",
+            "path": "station-saturn.html",
             "aliases": [],
             "categories": []
         },
