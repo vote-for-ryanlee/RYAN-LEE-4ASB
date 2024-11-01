@@ -20,6 +20,11 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
+        "Sort The Court": {
+            "path": "sort-the-court.html",
+            "aliases": [],
+            "categories": []
+        },
         "House Of Hazards": {
             "path": "houseofhazards.html",
             "aliases": [],
