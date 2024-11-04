@@ -30,6 +30,11 @@
             "aliases": [],
             "categories": []
         },
+        "Tetris": {
+            "path": "tetris.html",
+            "aliases": [],
+            "categories": []
+        },
         "Blumgi Ball": {
             "path": "blumgiball.html",
             "aliases": [],
