@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:49:14	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264d39a40-24a3%22	https://77pen.github.io/robots.txt		(from )
+20:49:14	1514/1514	---M-Z	200	added ('OK')	text/html	etag:W/%2265cf1f5b-5ea%22	https://77pen.github.io/p2/blumgi-ball/	C:/My%20Web%20Sites/Game/77pen.github.io/p2/blumgi-ball/index.html	(from )
